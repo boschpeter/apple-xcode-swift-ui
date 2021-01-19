@@ -1,1 +1,1 @@
-![office](../../pictures/microsoft_365.png)
+![office](..//pictures/microsoft_365.png)
