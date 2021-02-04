@@ -1,4 +1,5 @@
 # apple-xcode-swift-ui
+![gremlin](.//pictures/gremlin.jpg)
 
 In juni 2014 presenteerde Apple onverwachts een nieuwe taal op de WWDC-ontwikkelaarsconferentie: Swift. Met taalconstructies zoals sluitingen, generieke gegevens en functioneel programmeren is Swift up-to-date en wordt het behandeld als de programmeertaal van de toekomst. En niet alleen onder Mac OS!
 
